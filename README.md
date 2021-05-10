@@ -1,0 +1,2 @@
+# treasure
+collect treasure
